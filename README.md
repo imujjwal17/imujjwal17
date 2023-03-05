@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://pin.it/3BgJQxz">
+<img align="right" alt="Coding" width="400" src="[https://pin.it/3BgJQxz](https://dribbble.com/shots/3281817-Rolling-Chair-Reel-2017/attachments/9743412?mode=media)">
 - 🔭 I’m currently working on **FRONT-END PROJECTS**
 
 - 🌱 I’m currently learning **JAVASCRIPT**
