@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/imujjwal17/imujjwal17/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Kunwar Ujjwal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
