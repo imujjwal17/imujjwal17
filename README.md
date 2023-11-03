@@ -1,9 +1,9 @@
 ![MasterHead](https://github.com/imujjwal17/imujjwal17/blob/main/banner.png)
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/6edb22bb93ec5b8256156cc2755e3cec.gif">
 # 💫 About Me:
 🔭 I’m currently working on React JS Projects<br>👯 I’m looking to collaborate on Frontend<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning React JS and Tailwind<br>💬 Ask me about Web Development<br>⚡ Fun fact - I'm Lord Uzumaki 🥷🏻
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/6edb22bb93ec5b8256156cc2755e3cec.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imujjwal17/) 
@@ -27,3 +27,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=imujjwal17&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
