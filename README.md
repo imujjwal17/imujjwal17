@@ -1,106 +1,88 @@
-<!-- Tanjiro GIF Banner -->
-<img src="https://media.tenor.com/Ggl6wH_PUgAAAAAC/tanjiro.gif" width="100%" alt="Tanjiro GIF" />
+<!-- Anime Banner (Tanjiro) -->
+<p align="center">
+  <img src="https://media.tenor.com/Ggl6wH_PUgAAAAAC/tanjiro.gif" alt="Tanjiro" width="100%" />
+</p>
 
+<!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header" />
 
-
-<div align="center">
-
+<!-- Intro -->
 <h1 align="center">👋 Hey, I'm Kunwar Ujjwal Singh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Frontend+Developer;Anime+Lover;Code+Craftsman;Next.js+Fanboy;Building+Beautiful+Web+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Anime+Lover;Next.js+Fanboy;Pixel+Perfect+UI+Dev;Always+Learning..." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  A passionate Frontend Developer from India 🇮🇳, building interfaces that speak for themselves.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imujjwal17&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35" />
-</p>
+<p align="center">🚀 A frontend developer from India passionate about beautiful, responsive web interfaces.</p>
 
 ---
 
 ## 🚀 About Me
 
-Hi, I’m Ujjwal — a frontend developer who blends aesthetics with performance. I enjoy crafting seamless web experiences using React, Next.js, Tailwind CSS, and TypeScript. Always experimenting, learning, and optimizing.
+Hey! I'm Ujjwal — a frontend developer who loves clean code, great design, and solving real-world problems using React and the modern web stack.
 
-I believe in simplicity, efficiency, and code that *feels right*.
+I’m always trying new things, building projects, and pushing myself to grow every day.
 
-> _“A lesson without pain is meaningless.” — Fullmetal Alchemist Brotherhood_
+> 🧠 _“Hard work is worthless for those who don’t believe in themselves.”_  
+> — Naruto Uzumaki
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=framer" alt="Framer Motion" width="40" height="40"/>
+### 🔹 Frontend
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="35" alt="HTML" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="35" alt="CSS" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="35" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="35" alt="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="35" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="35" alt="Next.js" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="35" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=framer" width="35" alt="Framer Motion" />
 </p>
 
-### 🧰 Backend / Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=pnpm" alt="PNPM" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bun" alt="Bun" width="40" height="40"/>
+### 🔹 Backend / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,git,yarn,npm,pnpm,bun" />
 </p>
 
-### 🛠️ Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
+### 🔹 Others
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,vercel,postman" />
 </p>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=imujjwal17&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imujjwal17&custom_title=Ujjwal's%20GitHub%20Activity&hide_border=true&bg_color=000000&color=00FFCC&line=00FFFF&point=00FFFF&area=true" alt="Activity Graph" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=imujjwal17&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imujjwal17&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
-## 🧠 Quote I Live By
+## 📊 GitHub Stats
 
-> _“Hard work is worthless for those that don’t believe in themselves.” — Naruto Uzumaki_
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=imujjwal17&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imujjwal17&custom_title=Ujjwal's%20GitHub%20Activity&hide_border=true&bg_color=000000&color=00FFFF&line=00FFFF&point=00FFFF&area=true" alt="GitHub Activity Graph" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imujjwal17&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imujjwal17&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-<div align="center">
-<a href="https://github.com/imujjwal17" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/imujjwal17/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:ujjwalofficial1710@gmail.com">
-<img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</div>
+<p align="center">
+  <a href="https://github.com/imujjwal17" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/imujjwal17/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ujjwalofficial1710@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br>
+---
 
+<!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
