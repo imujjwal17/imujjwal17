@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header" />
+<img src="https://media.giphy.com/media/Jl3n9S4qf6GwwmZwRA/giphy.gif" width="100%" alt="Inosuke Beast Breathing" />
 
 <div align="center">
 
@@ -30,11 +31,38 @@ I believe in simplicity, efficiency, and code that *feels right*.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github.com/imujjwal17/imujjwal17/blob/main/assets/tech-stack.png" alt="Tech Stack" width="100%" />
-</div>
+### 🚀 Frontend
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=framer" alt="Framer Motion" width="40" height="40"/>
+</p>
 
----
+### 🧰 Backend / Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pnpm" alt="PNPM" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bun" alt="Bun" width="40" height="40"/>
+</p>
+
+### 🛠️ Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
+</p>
+
 
 ## 📊 GitHub Stats
 
