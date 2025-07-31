@@ -3,104 +3,72 @@
   <img src="https://c.tenor.com/JAnhH98Y2HEAAAAd/tenor.gif" alt="Tanjiro GIF" width="100%" />
 </p>
 
-<!-- Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header" />
-
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" />
 
 <!-- Intro -->
-<h1 align="center">👋 Hey, I'm Kunwar Ujjwal Singh</h1>
+<h1 align="center">Hey there, I'm Kunwar Ujjwal Singh 👋</h1>
+<p align="center">
+  <strong>Frontend Developer • India 🇮🇳</strong><br />
+  Passionate about clean UI, performance, and building in public.
+</p>
+
+---
+
+## 🚀 Tech Stack:
+
+<table align="center">
+  <tr><td align="center" colspan="8"><strong>Frontend</strong></td></tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/html-5.png"/><br>HTML</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/css3.png"/><br>CSS</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/javascript--v1.png"/><br>JavaScript</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/typescript.png"/><br>TypeScript</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/react-native.png"/><br>React</td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png"/><br>Next.js</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/tailwindcss.png"/><br>Tailwind</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/7575099?s=200&v=4" width="48"/><br>Framer Motion</td>
+  </tr>
+
+  <tr><td align="center" colspan="8"><strong>Backend / Tools</strong></td></tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/nodejs.png"/><br>Node.js</td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/express-js.png"/><br>Express</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/mongodb.png"/><br>MongoDB</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/docker.png"/><br>Docker</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/git.png"/><br>Git</td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/yarn.png"/><br>Yarn</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/npm.png"/><br>NPM</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" width="48"/><br>PNPM</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://bun.sh/logo.svg" width="48"/><br>Bun</td>
+    <td align="center"><img src="https://img.icons8.com/windows/32/console.png"/><br>Bash</td>
+    <td align="center"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"/><br>Vercel</td>
+    <td align="center"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/><br>Postman</td>
+  </tr>
+</table>
+
+---
+
+## 📬 Connect with Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Anime+Lover;Next.js+Fanboy;Pixel+Perfect+UI+Dev;Always+Learning..." alt="Typing SVG" />
+  <a href="mailto:ujjwalofficial1710@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/imujjwal17/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/imujjwal17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-<p align="center">🚀 A frontend developer from India passionate about beautiful, responsive web interfaces.</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Quote I Live By
 
-Hey! I'm Ujjwal — a frontend developer who loves clean code, great design, and solving real-world problems using React and the modern web stack.
-
-I’m always trying new things, building projects, and pushing myself to grow every day.
-
-> 🧠 _“Hard work is worthless for those who don’t believe in themselves.”_  
-> — Naruto Uzumaki
+> "Power comes in response to a need, not a desire. You have to create that need."  
+> — **Goku (Dragon Ball Z)**
 
 ---
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🚀 Frontend
-
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" alt="HTML" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" alt="CSS" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" alt="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" alt="TypeScript" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=framer" width="40" alt="Framer Motion" />
-</p>
-
-### ⚙️ Backend & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=npm" width="40" alt="NPM" />
-  <img src="https://skillicons.dev/icons?i=yarn" width="40" alt="Yarn" />
-  <img src="https://skillicons.dev/icons?i=pnpm" width="40" alt="PNPM" />
-  <img src="https://skillicons.dev/icons?i=bun" width="40" alt="Bun" />
-</p>
-
-### 🔧 Others
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=bash" width="40" alt="Bash" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=imujjwal17&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imujjwal17&custom_title=Ujjwal's%20GitHub%20Activity&hide_border=true&bg_color=000000&color=00FFFF&line=00FFFF&point=00FFFF&area=true" alt="GitHub Activity Graph" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=imujjwal17&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imujjwal17&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/imujjwal17" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/imujjwal17/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ujjwalofficial1710@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
