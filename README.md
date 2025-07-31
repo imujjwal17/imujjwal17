@@ -98,20 +98,24 @@ I believe in simplicity, efficiency, and code that *feels right*.
 ---
 
 ## 📫 Let's Connect
-
 <div align="center">
-<a href="https://github.com/imujjwal17" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/imujjwal17/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/dev__ujjwal" target="_blank">
-<img src="https://img.shields.io/badge/x%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="X" />
-</a>
-<a href="mailto:ujjwalofficial1710@gmail.com">
-<img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  
+  <a href="https://github.com/imujjwal17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/imujjwal17/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://x.com/dev__ujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23171717.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  
+  <a href="mailto:ujjwalofficial1710@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
 </div>
 
 <br>
