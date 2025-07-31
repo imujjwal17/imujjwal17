@@ -109,7 +109,7 @@ I believe in simplicity, efficiency, and code that *feels right*.
   </a>
   
   <a href="https://x.com/dev__ujjwal" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23171717.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-%23171717.svg?&style=for-the-badge&logo=x&logoColor=white" />
   </a>
   
   <a href="mailto:ujjwalofficial1710@gmail.com">
