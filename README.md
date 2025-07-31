@@ -106,6 +106,9 @@ I believe in simplicity, efficiency, and code that *feels right*.
 <a href="https://www.linkedin.com/in/imujjwal17/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://x.com/dev__ujjwal" target="_blank">
+<img src="https://img.shields.io/badge/x%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="X" />
+</a>
 <a href="mailto:ujjwalofficial1710@gmail.com">
 <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
