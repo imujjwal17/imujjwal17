@@ -30,9 +30,6 @@ Hi, I’m Ujjwal — a frontend developer who blends aesthetics with performance
 
 I believe in simplicity, efficiency, and code that *feels right*.
 
-> _“Hard work is worthless for those that don’t believe in themselves.” — Naruto Uzumaki_
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
