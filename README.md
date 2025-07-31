@@ -1,10 +1,11 @@
-<!-- Anime Banner (Tanjiro) -->
+<!-- Anime Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/Ggl6wH_PUgAAAAAC/tanjiro.gif" alt="Tanjiro" width="100%" />
+  <img src="https://c.tenor.com/JAnhH98Y2HEAAAAd/tenor.gif" alt="Tanjiro GIF" width="100%" />
 </p>
 
 <!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header" />
+
 
 <!-- Intro -->
 <h1 align="center">👋 Hey, I'm Kunwar Ujjwal Singh</h1>
@@ -30,27 +31,44 @@ I’m always trying new things, building projects, and pushing myself to grow ev
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend
+<div align="center">
+
+### 🚀 Frontend
+
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="35" alt="HTML" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="35" alt="CSS" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="35" alt="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="35" alt="TypeScript" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="35" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="35" alt="Next.js" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="35" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=framer" width="35" alt="Framer Motion" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" alt="HTML" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" alt="CSS" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" alt="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=framer" width="40" alt="Framer Motion" />
 </p>
 
-### 🔹 Backend / Tools
+### ⚙️ Backend & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,git,yarn,npm,pnpm,bun" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=npm" width="40" alt="NPM" />
+  <img src="https://skillicons.dev/icons?i=yarn" width="40" alt="Yarn" />
+  <img src="https://skillicons.dev/icons?i=pnpm" width="40" alt="PNPM" />
+  <img src="https://skillicons.dev/icons?i=bun" width="40" alt="Bun" />
 </p>
 
-### 🔹 Others
+### 🔧 Others
+
 <p>
-  <img src="https://skillicons.dev/icons?i=bash,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=bash" width="40" alt="Bash" />
 </p>
+
+</div>
 
 ---
 
