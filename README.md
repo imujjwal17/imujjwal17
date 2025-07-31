@@ -1,5 +1,8 @@
+<!-- Tanjiro GIF Banner -->
+<img src="https://media.tenor.com/Ggl6wH_PUgAAAAAC/tanjiro.gif" width="100%" alt="Tanjiro GIF" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header" />
-<img src="https://media.giphy.com/media/Jl3n9S4qf6GwwmZwRA/giphy.gif" width="100%" alt="Inosuke Beast Breathing" />
+
 
 <div align="center">
 
